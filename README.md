@@ -8,7 +8,7 @@ A clean, responsive calculator built with vanilla **HTML, CSS, and JavaScript** 
 
 ## 🔗 Live Preview
 
-*(Add your GitHub Pages / Netlify link here after deploying — see "Deploying" below)*
+https://abdullahbinmasood702.github.io/CodeAlpha_Calculator/
 
 ## ✨ Features
 
